@@ -20,3 +20,9 @@ donations. It’s accepted as payment by businesses including Microsoft and Expe
 Is bitcoin money? It’s been used as a medium of exchange, a store of value, and a unit of account—which 
 are all properties of money. Meanwhile, it only exists digitally; there is no physical version of it.
 
+Cryptocurrencies are a fast-growing market, Bitcoin was the first cryptocurrency, and holds
+the largest market share. Bitcoin is a decentralized currency, differentiating it from fiat money.
+It is a system of electronic transactions that is not controlled by anyone and does not rely on
+trust in the market. Bitcoin uses an innovative proof-of-work, and blockchain technology to
+transfer the Bitcoins between peers. Bitcoin´s attributes, and volatile exchange rate raises the
+question Bitcoin – a currency or an asset?
