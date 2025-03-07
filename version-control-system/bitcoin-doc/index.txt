@@ -9,3 +9,14 @@ Unlike traditional currencies, Bitcoin is not issued or controlled by any centra
  Instead, it relies on a global network of computers to verify and record transactions through 
  a process called mining. With a fixed supply of 21 million coins, Bitcoin is often compared to
 digital gold, serving as both a medium of exchange and a store of value.
+
+Bitcoin is a currency native to the Internet. Unlike government-issued currencies such as the 
+dollar or euro, Bitcoin allows online transfers without a middleman such as a bank or payment 
+processor. The removal of those gatekeepers creates a whole range of new possibilities, including 
+the potential for money to move around the global internet more quickly and cheaply, and allowing 
+individuals to have maximum control over their own assets.
+Bitcoin is legal to use, hold, and trade, and can be spent on everything from travel to charitable 
+donations. It’s accepted as payment by businesses including Microsoft and Expedia.
+Is bitcoin money? It’s been used as a medium of exchange, a store of value, and a unit of account—which 
+are all properties of money. Meanwhile, it only exists digitally; there is no physical version of it.
+
