@@ -1,0 +1,21 @@
+Proporcinar una descripcion detallada en un archivo .txt de las acciones que realizarias 
+al cocinar un huevo. 
+
+SOLUCION:
+
+Sacar el huevo de la refrigeradora
+buscar el sarten 
+sacar el aceite
+poner aceite al sarten
+abrir el huevo
+
+Quiere huevo frito o revuelto?
+-si es frito sacar la espatula
+-si es revuelto sacar un tenedor 
+
+como quiere la coccion?
+-si es tierno sacarlo rapido
+-si es muy cocido dejarlo mas tiempo
+
+ponerle un poco de sal 
+servirlo en el plato 
