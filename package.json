@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aguilar83/devlaunch-armando-aguilar/issues"
   },
-  "homepage": "https://github.com/aguilar83/devlaunch-armando-aguilar#readme"
+  "homepage": "https://github.com/aguilar83/devlaunch-armando-aguilar#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
