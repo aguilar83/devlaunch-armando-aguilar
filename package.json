@@ -19,5 +19,8 @@
   "homepage": "https://github.com/aguilar83/devlaunch-armando-aguilar#readme",
   "dependencies": {
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3"
   }
 }
